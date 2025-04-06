@@ -1,0 +1,13 @@
+#to install sphinx:
+
+python -m pip install -U sphinx
+
+#to quick start sphinx:
+sphinx-quickstart
+
+#then follow prompts
+
+#to build documentation using Sphinx,
+type:
+make html
+
