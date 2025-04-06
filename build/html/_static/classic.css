@@ -8,7 +8,7 @@
 
 html {
     /* CSS hack for macOS's scrollbar (see #1125) */
-    background-color: #FFFFFF;
+    background-color: #f9f9f9;
 }
 
 body {
