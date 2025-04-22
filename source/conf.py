@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Sphinx_test'
-copyright = '2025, Chris Kulahnenk'
-author = 'Chris Kulahnenk'
+copyright = '2025, Chris Kulhanek'
+author = 'Chris Kulhanek'
 release = '2025'
 
 # -- General configuration ---------------------------------------------------
